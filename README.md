@@ -26,7 +26,8 @@
 <details>
  
 </details>
-
+ <h1>Running Server</h1>
+ <h3>npm run start-dev</h3>
 ### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 Fadhil
 
 
